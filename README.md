@@ -1,2 +1,2 @@
 # SMSReader
-SMSReader Source Code
+SMSReader Application Source Code
